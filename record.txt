@@ -1,0 +1,2 @@
+0001,megha,sakshi,2/3/2014,diabetes,4,female,teenager,98767876789,adarsh,ab-,blood,in process,4 days
+0002,rahul,mohit,3/2/2014,accident,1,male,child,8746573829,malviya,ab-,xray,in process,1 month
